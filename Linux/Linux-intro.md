@@ -1,8 +1,11 @@
-What is Linux?
+## What is Linux?
 Linux is nothing but just an group of files and folders. It is a free and open source operating system. 
 
-### Linux OS and file System 
-// Screenshot 
+## Linux OS and file System 
+
+![Screenshot (62)](https://user-images.githubusercontent.com/72183256/231080307-667fcae9-ff2d-4d25-b4d3-10273134d0c2.png)
+
+ 
 
 ### Linux commands
 - ls:- list the files and folders in the current directory
@@ -11,7 +14,7 @@ Linux is nothing but just an group of files and folders. It is a free and open s
 - clear:- clear the terminal screen
 
 - 
-### Scenario 
+## Scenario 
 1. print the linux distribution information 
    - lsb_release -a:- print the linux distribution information
    - man:- print the manual of the command
@@ -21,4 +24,4 @@ Linux is nothing but just an group of files and folders. It is a free and open s
    - lscpu:- print the cpu information
    - lsmem:- print the memory information
 
-2. LOGS in Linux
+2. logs in Linux
