@@ -1,4 +1,4 @@
-# Sure, here is a step-by-step guide to deploying and running Kubernetes Apps in Azure and on-premises with GitOps using AKS hybrid and Azure Arc.
+# Here is a step-by-step guide to deploying and running Kubernetes Apps in Azure and on-premises with GitOps using AKS hybrid and Azure Arc.
 
 ## Step 1: Prerequisites
 
