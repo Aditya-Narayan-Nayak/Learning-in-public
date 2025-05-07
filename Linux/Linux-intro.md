@@ -44,4 +44,4 @@ Linux is nothing but just an group of files and folders. It is a free and open s
    - passwd user1:- set the password for the user1
    - usermod -aG sudo user1:- add the user1 to the sudo group
    - groupadd docker:- create a new group docker
-   - getent group docker:- print the group information
+   - getent group docker:- print the group inform
