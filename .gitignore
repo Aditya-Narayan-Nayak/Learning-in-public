@@ -1,0 +1,104 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.local
+.env.*
+.env.*.local
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - JetBrains
+.idea/
+*.iml
+*.iws
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+*.exe
+*.o
+*.so
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+coverage/
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Local development
+.local/
+
+# Rust specific ignores
+**/target/
+**/*.rs.bk
+Cargo.lock
+
+# Terraform specific ignores
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+.terraformrc
+terraform.rc
+.terraform.lock.hcl
+
+# Azure specific
+*.publishsettings
+PublishScripts/
+*.pfx
+*.pem
+*.key
+
+# Logs and databases
+*.sql
+*.sqlite
+
+# Python (if any python scripts are added later)
+*$py.class
+*.so
+.Python
+ENV/
+
+# Backup files
+*.bak
+*.backup
+*.[Bb]ak
+
+# Debug files
+*.pdb
+*.dSYM/
