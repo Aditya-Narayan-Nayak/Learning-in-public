@@ -102,3 +102,10 @@ ENV/
 # Debug files
 *.pdb
 *.dSYM/
+
+# ...existing code...
+
+# Temporary files
+main
+test
+*.tmp
